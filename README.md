@@ -1,4 +1,4 @@
-```markdown
+
 # Leveraged Yield FHE: A Privacy-First DeFi Protocol
 
 Leveraged Yield FHE is a DeFi protocol designed specifically for confidential leveraged yield farming, powered by **Zama's Fully Homomorphic Encryption technology** (FHE). This innovative platform allows users to engage in yield farming while ensuring that their position sizes, leverage ratios, and health metrics remain completely private and secure from adversarial attacks, such as liquidation bots or competing traders.
